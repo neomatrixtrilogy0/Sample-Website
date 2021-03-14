@@ -15,7 +15,7 @@
     <?php
         include "header.php"
     ?>
-    <div class="container-fluid" id="content" >
+    <div class="container-fluid" id="content">
         <div id="txt">
             <center><h2>We are best in B2B Services</h2>
                 <h2>Quality and Quantity amount of Data</h2>

@@ -33,7 +33,7 @@
             </div>
             <div class="col-sm-6">
                 <h2 style="color: brown;">Fill Up Your Details</h2>
-                <form action="" method="POST">
+                <form action="mailsend.php" method="POST">
                     <div class="form-group">
                         <label for="name">Your Full Name</label>
                         <input type="text" name="fullname" class="form-control">
